@@ -1,8 +1,0 @@
-{
-  "description" : "gitbook study ko",
-  "structure" :{
-    "readme" : "README.md",
-    "summary" : "SUMMARY.md"
-  },
-  "language" : "ko"
-}

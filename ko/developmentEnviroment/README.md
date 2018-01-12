@@ -23,3 +23,5 @@
         * git
         * gitBook
         * intellij(markDown 지원)
+        
+**gitbook-cli 사용시 편리하게 gitbook사용 가능 및 plugin Download가 쉽다.**
