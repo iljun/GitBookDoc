@@ -1,0 +1,11 @@
+{
+  "structure":{
+    "readme" : "README.md",
+    "summary" : "SUMMARY.md",
+    "glossary" : "GLOSSARY.md"
+  },
+  "variables" : {
+    "v" : "v1",
+    "root" : "root"
+  }
+}
