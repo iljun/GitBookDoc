@@ -9,4 +9,4 @@ https://{author}.gitbooks.io/{book}/content/
 
 또한 Custom DNS까지 설정할수 있습니다.
 
-![customDomain](../../img/custom-domain.png)
+![customDomain](./custom-domain.png)

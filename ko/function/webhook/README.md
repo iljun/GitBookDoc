@@ -4,7 +4,7 @@ gitbook.com에서 WebHook기능을 설정할수 있습니다.
 
 아래와 같은 화면에서
 
-![capture](../../img/capture.png)
+![capture](./capture.png)
 
 특정한 이벤트때 webHook을 받을 url을 설정 가능합니다.
 
