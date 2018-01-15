@@ -10,3 +10,6 @@ https://{author}.gitbooks.io/{book}/content/
 또한 Custom DNS까지 설정할수 있습니다.
 
 ![customDomain](../../asset/custom-domain.PNG)
+
+
+Custom DNS를 사용하려면 Domain forwarding을 설정해주어야한다.

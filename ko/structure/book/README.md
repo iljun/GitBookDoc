@@ -19,23 +19,16 @@
                   //특정 버전을 적용시 plugin명@version default는 현재 GitBook version과 호환되는 최신버전의 플러그인
   "pluginsConfig" : {
   },//플러그인의 설정
-  // 현재 문서에 추가할 링크
-  	"links": {
-  		// 링크를 추가할 위치. 왼쪽 상단에 나온다.
-  		"sidebar": {
-  			// 보여줄 링크 이름: 링크
-  		}
-  	},
-  	// css 적용 가능하다.
-    "styles": {
-        "website": "styles/website.css",
-    	"ebook": "styles/ebook.css",
-    	"pdf": "styles/pdf.css",
-    	"mobi": "styles/mobi.css",
-    	"epub": "styles/epub.css"
-    },
-    "pdf" : {
+  // css 적용 가능하다.
+  "styles": {
+    "website": "styles/website.css",
+    "ebook": "styles/ebook.css",
+    "pdf": "styles/pdf.css",
+    "mobi": "styles/mobi.css",
+    "epub": "styles/epub.css"
+   },
+  "pdf" : {
     
-    }//pdf옵션 설정
+  }//pdf옵션 설정
 }
 ~~~

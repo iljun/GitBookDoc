@@ -14,3 +14,5 @@ GitBook에 배포된 URL을 iframe에 삽입하는 방식입니다.
 * 단점
     * 성능에 문제가 생길수 있습니다.(iframe)
     * GitBook 플랫폼의 속도가 매우 느리다.
+    
+domain forwarding을 이용해 GitBook domain에 등록해 이용하는방법
