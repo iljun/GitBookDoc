@@ -1,7 +1,7 @@
 #   개발환경
 ***
-    * 필수개발환경
-        * Node.js v4.0.0이상
+    * 필수 개발 환경
+        * Node.js v4.0.0 이상
         * Windows, Linux, Unix, Mac OS X
         
 ***
@@ -24,4 +24,4 @@
         * git
         * intellij(markDown 지원)
         
-**gitbook-cli 사용시 편리하게 gitbook사용 가능 및 plugin Download가 쉽다.**
+**gitbook-cli 사용 시 편리하게 gitbook 사용 가능 및 plugin Download가 쉽다.**

@@ -15,13 +15,14 @@
     * [for문](template/for/README.md)
     * [set](template/set/README.md)
     * [include](template/include/README.md)
+    * [raw](template/raw/README.md)
     
 * [기능](function/webhook/README.md)
     * [webhook](function/webhook/README.md)
     * [domain](function/domain/README.md)
-    * [상속](function/extends/README.md)
-
-* [Gitbook적용방법](howuse/README.md)
+    * [inheritation](function/inheritation/README.md)
+    
+* [Gitbook 적용방법](howuse/README.md)
     * [domain사용법](howuse/domain/README.md)
     * [내부Application](howuse/application/README.md)
-    * [GitBook 사용법의 결과](howuse/result/README.md)
+    * [GitBook 적용법의 결과](howuse/result/README.md)
