@@ -15,8 +15,10 @@
     "languages" : "LANGS.md"
   },
   "language" : "ko",//ISO code를 사용한다.
-  "plugins" : [],// 플러그인 목록 플러그인들의 설정이나 선언은 최상위 book.json에서만 가능 따로해도 설정이 적용되지 않는다.
-                  //특정 버전을 적용시 plugin명@version default는 현재 GitBook version과 호환되는 최신버전의 플러그인
+  "plugins" : [],// 플러그인 목록 플러그인들의 설정이나 선언은 최상위 book.json에서만 가능 
+                    하위 book.json에서 설정해도 덮어쓰기가 되지 않는다.
+                  //특정 버전을 적용시 plugin명@version default는 
+                    현재 GitBook version과 호환되는 최신버전의 플러그인
   "pluginsConfig" : {
   },//플러그인의 설정
   // css 적용 가능하다.

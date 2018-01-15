@@ -1,11 +1,10 @@
 # application 내부에 GitBook을 포함하는 방식
 
-Application내부에 GitBook을 포함시켜 source코드를 외부로 유출시키지 않는 방법
+Application내부에 GitBook을 포함시켜 내부에서 구동시키는 방법
 
 * 장점
-    * source코드가 외부로 유출되지 않는다.
+    * 다른 플랫폼을 사용할 필요가 없다.
     * application내부에 위치시키고 구동시키기 때문에 다른 도메인을 사용할 필요없습니다.
-    
     
 * 이슈
     * GitBook에 push했을때 application내부에 gitBook을 udpate해야된다.

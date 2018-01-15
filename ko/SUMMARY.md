@@ -19,10 +19,9 @@
 * [기능](function/webhook/README.md)
     * [webhook](function/webhook/README.md)
     * [domain](function/domain/README.md)
-    
+    * [상속](function/extends/README.md)
+
 * [Gitbook적용방법](howuse/README.md)
     * [domain사용법](howuse/domain/README.md)
     * [내부Application](howuse/application/README.md)
-    * [build된 html](howuse/html/README.md)
-    * [ajax](howuse/ajax/README.md)
     * [GitBook 사용법의 결과](howuse/result/README.md)
