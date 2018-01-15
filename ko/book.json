@@ -7,5 +7,6 @@
   "variables" : {
     "v" : "v1",
     "root" : "root"
-  }
+  },
+  "title" : "GitBook"
 }
