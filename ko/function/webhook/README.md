@@ -30,4 +30,4 @@ Webhook은 post의 형태로 전달받습니다.
 | X-GitBook-Delivery  |  Request의 고유한 ID가 전송됩니다. |
 
 
-Webhook 기능은 주로 slack에서 사용되는 걸로 파악했습니다.
+### Webhook기능은 GitBook에 이벤트에 해당하는 전처리와 후처리 기능을 위해 사용하면 적절한 기능이라고 생각합니다.
