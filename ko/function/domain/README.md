@@ -15,3 +15,5 @@ https://{author}.gitbooks.io/{book}/content/
 Custom DNS를 사용하려면 Domain forwarding을 설정해주어야 합니다.
 
 Domain forwarding에 대한 정확한 이해를 하고 내용추가하겠습니다.
+
+CNAME에 www를 추가하고 URL 필드를 www.gitbook.io로 설정
