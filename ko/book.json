@@ -8,5 +8,10 @@
     "v" : "v1",
     "root" : "root"
   },
-  "title" : "GitBook"
+  "title" : "GitBook",
+  "pdf" : {
+    "pageNumbers" : true,
+    "fontSize" : 12,
+    "papaerSize" : "a4"
+  }
 }

@@ -23,7 +23,7 @@
   * [webhook](function/webhook/README.md)
   * [domain](function/domain/README.md)
   * [inheritation](function/inheritation/README.md)
-  * changeRequest
+  * [changeRequest](function/changeRequest/README.md)
 
 * [Gitbook 적용방법](howuse/README.md)
 

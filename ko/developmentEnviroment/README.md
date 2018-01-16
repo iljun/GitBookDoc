@@ -16,6 +16,8 @@
         * gitbook serve
     * GitBook 플러그인 설치(book.json에 기술해놓은 plugin)
         * gitbook install
+    * pdf 생성
+        * gitbook pdf ./[파일명.pdf]
 
 ***
     * 사용 버전 및 툴
