@@ -7,6 +7,8 @@
 * if, for, 변수 등을 사용 가능 \(programing 언어처럼 문서작성이 가능\)
 * git을 이용한 문서 관리 및 여러 명이 동시에 수정 및 작성 가능
 * Gitbook에서 지원하는 plugin으로 다양한 효과를 추가 가능
+* .xml, .docsx, .html, .odt 파일등 import가능(어떠한 방식으로 import하는지 파악 후 추가) -> gitbook-convert CLI 사용
+
 
 **다양한 파일로 변환할 때 서로 다른 css를 적용 가능**
 

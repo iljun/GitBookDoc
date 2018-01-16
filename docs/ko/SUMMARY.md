@@ -18,7 +18,7 @@
   * [include](template/include/README.md)
   * [raw](template/raw/README.md)
   * [inheritation](template/inheritation/README.md)
-  
+  * [styles](template/style/README.md)
   
 * [GitBook 플랫폼 기능](function/webhook/README.md)
 
