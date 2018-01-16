@@ -17,12 +17,13 @@
   * [set](template/set/README.md)
   * [include](template/include/README.md)
   * [raw](template/raw/README.md)
-
+  * [inheritation](template/inheritation/README.md)
+  
+  
 * [GitBook 플랫폼 기능](function/webhook/README.md)
 
   * [webhook](function/webhook/README.md)
   * [domain](function/domain/README.md)
-  * [inheritation](function/inheritation/README.md)
   * [changeRequest](function/changeRequest/README.md)
 
 * [Gitbook 적용방법](howuse/README.md)
