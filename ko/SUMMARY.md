@@ -18,7 +18,7 @@
   * [include](template/include/README.md)
   * [raw](template/raw/README.md)
 
-* [기능](function/webhook/README.md)
+* [GitBook 플랫폼 기능](function/webhook/README.md)
 
   * [webhook](function/webhook/README.md)
   * [domain](function/domain/README.md)
