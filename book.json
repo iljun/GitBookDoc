@@ -1,8 +1,0 @@
-{
-  "root" : "./",
-  "description" : "gitbook study",
-  "structure" :{
-    "readme" : "README.md",
-    "summary" : "SUMMARY.md"
-  }
-}
