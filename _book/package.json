@@ -1,0 +1,26 @@
+{
+  "name": "gitbook",
+  "version": "1.0.0",
+  "description": "gitbook",
+  "main": "index.js",
+  "scripts": {
+    "test": "gitbook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iljun/GitBookDoc.git"
+  },
+  "keywords": [
+    "gitBook"
+  ],
+  "author": "iljun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iljun/GitBookDoc/issues"
+  },
+  "homepage": "https://github.com/iljun/GitBookDoc#readme",
+  "dependencies": {
+    "gitbook": "^3.2.3",
+    "gitbook-cli": "^2.3.2"
+  }
+}
