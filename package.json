@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iljun/GitBookDoc.git"
+    "url": "git+https://github.com/iljun/Gitbook.git"
   },
   "keywords": [
     "gitBook"
@@ -16,9 +16,9 @@
   "author": "iljun",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iljun/GitBookDoc/issues"
+    "url": "https://github.com/iljun/Gitbook/issues"
   },
-  "homepage": "https://github.com/iljun/GitBookDoc#readme",
+  "homepage": "https://github.com/iljun/Gitbook#readme",
   "dependencies": {
     "gitbook": "^3.2.3",
     "gitbook-cli": "^2.3.2"
